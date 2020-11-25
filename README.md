@@ -1,1 +1,1 @@
-<h1>FlighFarePrediction</h1>
+<h1>Flight Fare Prediction</h1>
